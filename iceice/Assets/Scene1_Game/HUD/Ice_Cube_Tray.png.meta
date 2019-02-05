@@ -1,0 +1,370 @@
+fileFormatVersion: 2
+guid: 42878111ca0254043b89e050233b49c8
+timeCreated: 1493678144
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ice_Cube_Tray_0
+    21300002: Ice_Cube_Tray_1
+    21300004: Ice_Cube_Tray_2
+    21300006: Ice_Cube_Tray_3
+    21300008: Ice_Cube_Tray_4
+    21300010: Ice_Cube_Tray_5
+    21300012: Ice_Cube_Tray_6
+    21300014: Ice_Cube_Tray_7
+    21300016: Ice_Cube_Tray_8
+    21300018: Ice_Cube_Tray_9
+    21300020: Ice_Cube_Tray_10
+    21300022: Ice_Cube_Tray_11
+    21300024: Ice_Cube_Tray_12
+    21300026: Ice_Cube_Tray_13
+    21300028: Ice_Cube_Tray_14
+    21300030: Ice_Cube_Tray_15
+    21300032: Ice_Cube_Tray_16
+    21300034: Ice_Cube_Tray_17
+    21300036: Ice_Cube_Tray_18
+    21300038: Ice_Cube_Tray_19
+    21300040: Ice_Cube_Tray_20
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ice_Cube_Tray_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 135
+        width: 1100
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice_Cube_Tray_1
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 135
+        width: 1100
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice_Cube_Tray_2
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 135
+        width: 1100
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice_Cube_Tray_3
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 135
+        width: 1100
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice_Cube_Tray_4
+      rect:
+        serializedVersion: 2
+        x: 4814
+        y: 135
+        width: 1100
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice_Cube_Tray_5
+      rect:
+        serializedVersion: 2
+        x: 6018
+        y: 135
+        width: 1100
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice_Cube_Tray_6
+      rect:
+        serializedVersion: 2
+        x: 7210
+        y: 135
+        width: 1100
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice_Cube_Tray_7
+      rect:
+        serializedVersion: 2
+        x: 8418
+        y: 135
+        width: 1100
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice_Cube_Tray_8
+      rect:
+        serializedVersion: 2
+        x: 9611
+        y: 135
+        width: 1100
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice_Cube_Tray_9
+      rect:
+        serializedVersion: 2
+        x: 10814
+        y: 135
+        width: 1100
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice_Cube_Tray_10
+      rect:
+        serializedVersion: 2
+        x: 12012
+        y: 135
+        width: 1100
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice_Cube_Tray_11
+      rect:
+        serializedVersion: 2
+        x: 13215
+        y: 135
+        width: 1100
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice_Cube_Tray_12
+      rect:
+        serializedVersion: 2
+        x: 14409
+        y: 135
+        width: 1100
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice_Cube_Tray_13
+      rect:
+        serializedVersion: 2
+        x: 15607
+        y: 135
+        width: 1100
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice_Cube_Tray_14
+      rect:
+        serializedVersion: 2
+        x: 16810
+        y: 135
+        width: 1100
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice_Cube_Tray_15
+      rect:
+        serializedVersion: 2
+        x: 18013
+        y: 135
+        width: 1100
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice_Cube_Tray_16
+      rect:
+        serializedVersion: 2
+        x: 19210
+        y: 135
+        width: 1100
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice_Cube_Tray_17
+      rect:
+        serializedVersion: 2
+        x: 20404
+        y: 135
+        width: 1100
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice_Cube_Tray_18
+      rect:
+        serializedVersion: 2
+        x: 21607
+        y: 135
+        width: 1100
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice_Cube_Tray_19
+      rect:
+        serializedVersion: 2
+        x: 22814
+        y: 135
+        width: 1100
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice_Cube_Tray_20
+      rect:
+        serializedVersion: 2
+        x: 24008
+        y: 135
+        width: 1100
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
